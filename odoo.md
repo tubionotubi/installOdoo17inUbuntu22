@@ -1,6 +1,6 @@
-https://www.odoo.com/documentation/17.0/administration/install/packages.html
-Ubuntu 22.04
-
+[Odoo](https://www.odoo.com/documentation/17.0/administration/install/packages.html)
+> Ubuntu 22.04
+```
 sudo apt update; sudo apt upgrade -y
 
 sudo apt install postgresql -y
@@ -39,5 +39,7 @@ http://192.168.100.112:8069/
 
 
 sudo tail -f /var/log/odoo/odoo-server.log
+
+```
 path codigo fuente odoo: /usr/lib/python3/dist-packages/odoo
 
