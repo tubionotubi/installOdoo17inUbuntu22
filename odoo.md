@@ -11,6 +11,7 @@ sudo apt install python3-psycopg2
 
 sudo apt install wkhtmltopdf -y
 
+sudo apt install python3-pip
 sudo pip3 install xlwt
 sudo pip3 install num2words
 pip3 list |grep xlwt
